@@ -1,0 +1,171 @@
+[
+  {
+    "id": "cand-001",
+    "name": "Maya Chen",
+    "title": "Staff Machine Learning Engineer",
+    "location": "San Francisco, US",
+    "languages": ["English", "Mandarin"],
+    "skills": ["Python", "LLM", "RAG", "PostgreSQL", "Vector Search", "MLOps", "FastAPI"],
+    "domains": ["AI Infrastructure", "Search", "Recruiting Automation"],
+    "education": "PhD Computer Science, UC Berkeley",
+    "publications": 18,
+    "citations": 1320,
+    "h_index": 14,
+    "github_stars": 2400,
+    "leadership": 4,
+    "years_experience": 10,
+    "signals": [
+      "Built a production RAG platform for enterprise knowledge search.",
+      "Led a five-person ML infrastructure team.",
+      "Published papers on semantic retrieval and representation learning."
+    ]
+  },
+  {
+    "id": "cand-002",
+    "name": "Arjun Rao",
+    "title": "Applied AI Research Scientist",
+    "location": "Toronto, Canada",
+    "languages": ["English", "Hindi"],
+    "skills": ["Python", "PyTorch", "LLM", "Information Retrieval", "Evaluation", "NLP"],
+    "domains": ["Academic Search", "NLP", "Candidate Intelligence"],
+    "education": "PhD Machine Learning, University of Toronto",
+    "publications": 31,
+    "citations": 4100,
+    "h_index": 22,
+    "github_stars": 680,
+    "leadership": 2,
+    "years_experience": 8,
+    "signals": [
+      "Designed benchmark suites for ranking and retrieval systems.",
+      "Frequent Semantic Scholar and arXiv contributor.",
+      "Strong research profile with practical model evaluation experience."
+    ]
+  },
+  {
+    "id": "cand-003",
+    "name": "Elena Petrova",
+    "title": "Principal Data Platform Engineer",
+    "location": "Berlin, Germany",
+    "languages": ["English", "German", "Russian"],
+    "skills": ["Python", "PostgreSQL", "Docker", "Alembic", "AsyncIO", "Distributed Systems"],
+    "domains": ["Data Platforms", "Workflow Automation", "Developer Tools"],
+    "education": "MS Software Engineering, TU Berlin",
+    "publications": 4,
+    "citations": 120,
+    "h_index": 3,
+    "github_stars": 5100,
+    "leadership": 5,
+    "years_experience": 13,
+    "signals": [
+      "Owns high-scale PostgreSQL-backed workflow systems.",
+      "Maintains open source async data tooling.",
+      "Strong engineering leadership and delivery record."
+    ]
+  },
+  {
+    "id": "cand-004",
+    "name": "Lucas Moretti",
+    "title": "Browser Automation Specialist",
+    "location": "Lisbon, Portugal",
+    "languages": ["English", "Portuguese", "Spanish"],
+    "skills": ["Python", "Playwright", "Browser Automation", "Crawling", "HTTP", "Anti-bot"],
+    "domains": ["Web Data Extraction", "Talent Intelligence", "Automation"],
+    "education": "BS Computer Science, Universidade de Lisboa",
+    "publications": 1,
+    "citations": 28,
+    "h_index": 1,
+    "github_stars": 3200,
+    "leadership": 3,
+    "years_experience": 7,
+    "signals": [
+      "Built resilient crawlers for public professional profiles.",
+      "Deep experience with Playwright-style browser stacks.",
+      "Knows rate limits, session handling, and HTML-to-markdown extraction."
+    ]
+  },
+  {
+    "id": "cand-005",
+    "name": "Nina Williams",
+    "title": "Talent Intelligence Product Lead",
+    "location": "New York, US",
+    "languages": ["English"],
+    "skills": ["Recruiting", "Product Strategy", "Analytics", "SQL", "Prompt Design", "CRM"],
+    "domains": ["Recruiting Automation", "B2B SaaS", "People Analytics"],
+    "education": "MBA, Columbia Business School",
+    "publications": 0,
+    "citations": 0,
+    "h_index": 0,
+    "github_stars": 0,
+    "leadership": 5,
+    "years_experience": 11,
+    "signals": [
+      "Shipped sourcing and outreach workflows used by enterprise recruiting teams.",
+      "Strong understanding of recruiter operations and adoption risk.",
+      "Excellent go-to-market and product discovery background."
+    ]
+  },
+  {
+    "id": "cand-006",
+    "name": "Kenji Sato",
+    "title": "Senior Backend Engineer",
+    "location": "Tokyo, Japan",
+    "languages": ["English", "Japanese"],
+    "skills": ["Python", "FastAPI", "PostgreSQL", "Redis", "Docker", "Testing", "Mypy"],
+    "domains": ["Backend Systems", "APIs", "Operational Tooling"],
+    "education": "BS Information Science, University of Tokyo",
+    "publications": 2,
+    "citations": 44,
+    "h_index": 2,
+    "github_stars": 920,
+    "leadership": 3,
+    "years_experience": 9,
+    "signals": [
+      "Built typed Python services with async database access.",
+      "Strong test discipline and production reliability habits.",
+      "Comfortable turning product workflows into clean APIs."
+    ]
+  },
+  {
+    "id": "cand-007",
+    "name": "Sofia Alvarez",
+    "title": "Computational Social Science Researcher",
+    "location": "Madrid, Spain",
+    "languages": ["English", "Spanish"],
+    "skills": ["Python", "Graph Analysis", "OpenAlex", "Semantic Scholar", "NLP", "Statistics"],
+    "domains": ["Knowledge Graphs", "Academic Networks", "Research Analytics"],
+    "education": "PhD Computational Social Science, Oxford",
+    "publications": 24,
+    "citations": 2600,
+    "h_index": 18,
+    "github_stars": 310,
+    "leadership": 2,
+    "years_experience": 7,
+    "signals": [
+      "Maps collaboration networks from OpenAlex and Semantic Scholar data.",
+      "Published on academic mobility and citation network dynamics.",
+      "Strong fit for candidate graph intelligence."
+    ]
+  },
+  {
+    "id": "cand-008",
+    "name": "Owen Brooks",
+    "title": "Developer Experience Engineer",
+    "location": "Austin, US",
+    "languages": ["English"],
+    "skills": ["Python", "TypeScript", "CLI", "Testing", "Documentation", "GitHub API"],
+    "domains": ["Developer Tools", "Open Source", "Automation"],
+    "education": "BS Computer Engineering, Georgia Tech",
+    "publications": 0,
+    "citations": 0,
+    "h_index": 0,
+    "github_stars": 7600,
+    "leadership": 3,
+    "years_experience": 8,
+    "signals": [
+      "Maintains widely used GitHub automation tools.",
+      "Excellent at turning complex workflows into usable command line products.",
+      "Strong documentation and developer onboarding instincts."
+    ]
+  }
+]
+

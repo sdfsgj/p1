@@ -1,0 +1,16 @@
+services:
+  postgres:
+    image: pgvector/pgvector:pg16
+    environment:
+      POSTGRES_DB: oculai
+      POSTGRES_USER: oculai
+      POSTGRES_PASSWORD: oculai
+    ports:
+      - "5432:5432"
+    volumes:
+      - oculai_postgres:/var/lib/postgresql/data
+      - ./sql:/docker-entrypoint-initdb.d:ro
+
+volumes:
+  oculai_postgres:
+

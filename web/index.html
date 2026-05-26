@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Oculai Talent Pipeline Demo</title>
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <main class="app-shell">
+      <section class="workspace">
+        <aside class="left-panel">
+          <div class="brand-row">
+            <div class="mark">O</div>
+            <div>
+              <h1>Oculai</h1>
+              <p>Talent intelligence pipeline</p>
+            </div>
+          </div>
+
+          <label class="field-label" for="jd">Job description</label>
+          <textarea id="jd" spellcheck="true"></textarea>
+
+          <div class="controls">
+            <button id="sampleBtn" class="ghost-btn" type="button" title="Load sample JD">Sample</button>
+            <button id="analyzeBtn" class="primary-btn" type="button" title="Run pipeline">
+              <span>Analyze</span>
+            </button>
+          </div>
+
+          <div class="profile-block">
+            <div class="section-heading">Parsed Profile</div>
+            <div id="profile" class="profile-grid"></div>
+          </div>
+        </aside>
+
+        <section class="main-panel">
+          <div class="topbar">
+            <div>
+              <div class="eyebrow">Live Demo</div>
+              <h2>Candidate ranking console</h2>
+            </div>
+            <div id="health" class="health">Checking</div>
+          </div>
+
+          <div id="pipeline" class="pipeline"></div>
+
+          <div class="results-layout">
+            <section>
+              <div class="section-heading">Ranked Candidates</div>
+              <div id="candidateList" class="candidate-list"></div>
+            </section>
+
+            <section class="detail-panel">
+              <div class="section-heading">Candidate Dossier</div>
+              <div id="candidateDetail" class="candidate-detail empty-state">
+                Run the pipeline to inspect the best match.
+              </div>
+            </section>
+          </div>
+        </section>
+      </section>
+    </main>
+    <script src="/app.js"></script>
+  </body>
+</html>
+
