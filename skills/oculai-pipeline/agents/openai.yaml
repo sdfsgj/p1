@@ -1,0 +1,5 @@
+interface:
+  display_name: "Oculai Pipeline"
+  short_description: "Build and maintain Oculai talent sourcing systems."
+  default_prompt: "Use the Oculai Pipeline skill to build, extend, deploy, or troubleshoot the Oculai AI-native talent sourcing project."
+
